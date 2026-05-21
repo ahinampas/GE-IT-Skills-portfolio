@@ -1,6 +1,8 @@
 # GE-IT-Skills-portfolio
 # Hi, I'm learning Digital Skills & Visual Communication! 🌐🎨
 
+![Logo](https://github.com/ahinampas/GE-IT-Skills-portfolio/blob/main/brandingkit/logo.png)
+
 Welcome to my portfolio! I use this space to develop my practical digital skills and explore how visual design can make technology more accessible, engaging, and impactful.
 
 ## 📊 Core Focus Areas
