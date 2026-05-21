@@ -9,4 +9,4 @@ Welcome to my portfolio! I use this space to develop my practical digital skills
 - 🚀 **The Goal:** Combining code and creativity to build digital experiences that look great and work perfectly.
 
   ___
-# "*Driven by Financial Percision, Grounded in Integrity*"
+### "*Driven by Financial Percision, Grounded in Integrity*"
