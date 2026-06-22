@@ -16,19 +16,31 @@ Welcome to my portfolio! I use this space to develop my practical digital skills
 
 ---
 
-### Data Analytics & Visual Report
 
-#### Dataset Focus: Davao Region Agricultural Production Index (Mock CSV Analysis)
+# Mati City Eco-Tourism Promotion Prompt System
 
-#### 1. Data Cleaning Protocol Log
-* **Raw Input Problem:** The CSV file contained multiple missing row cells for the year 2023 along with mixed numerical formatting styles (e.g., metric tons vs. kilograms).
-* **AI Cleaning Instruction:** "Scan this dataset. Identify all null rows in the 'Yield' column and replace them with the median value for that specific crop tier. Convert all mass metrics to standard Metric Tons (MT). Output the first 5 rows of the cleaned table."
-* **Result:** Successfully normalized 120 row inputs across three provincial clusters.
+#### 1. System Prompt Template (V3 - Final Optimized)
+"Act as a Local Sustainable Tourism Consultant for Mati City, Davao Oriental. Your task is to generate a 2-day eco-tourism promotional itinerary for Dahican Beach and surrounding natural attractions.
 
-#### 2. Visualizations Generated
-*(Embedded High-Contrast Bar Chart showing Corn Production vs. Climate Outlier Years from 2020-2025)*
+Context: Local skimboarders, surf instructors, and community-owned campsites need to attract eco-conscious domestic tourists while protecting the nesting grounds of marine turtles (pawikan) and maintaining clean coastlines.
+Constraints: Focus entirely on low-impact, community-based tourism. Do not recommend large commercial luxury hotels or high-end jet ski rentals. Keep the tone adventurous, respectful of nature, and professional. Max 250 words.
+Output: Format the response in clear Markdown using bold headers for 'Day 1: Surf & Protect' and 'Day 2: The Sleeping Dinosaur Trek' with bullet points for activities."
 
-#### 3. Human Analytical Narrative (The 'Why' Factor)
-"The data chart clearly shows an abrupt 18% decline in smallholder corn output centered in late 2023. While the automated AI analysis summary attributed this drop purely to standard market volatility, human cross-referencing of local news archives reveals this period matched a severe regional El Niño weather event. 
+#### 2. Prompt Battle Ledger
 
-This drop emphasizes the urgent need for NEDA and local LGUs to invest heavily in smart solar-powered irrigation infrastructure."
+| Version | Prompt Modifier Added | Output Quality Reflection |
+| :--- | :--- | :--- |
+| V1 | "Write a tour plan for Mati City." | Too generic. The AI suggested standard commercial hotels and tourist traps, completely missing the unique eco-tourism and surf culture of Dahican. |
+| V2 | Added regional persona for Mati City and focused specifically on Dahican Beach. | Better, but it included high-impact motorized water sports that disrupt the local marine wildlife and turtle nesting grounds. |
+| V3 | Added strict environmental constraints (protecting pawikan nesting grounds) and specific Markdown output headers. | Target hit. Balanced local economic support for surf instructors with strict environmental awareness, formatted perfectly. |
+
+#### 3. Visual Branding Asset
+* **Engine Used:** Canva Magic Media
+* **Visual Prompt:** "A flat minimalist vector logo featuring a stylized ocean wave transforming into the silhouette of a skimming pawikan turtle shell, minimalist line art, teal and ocean blue colors, clean white background, Davao Oriental tourism aesthetic."
+
+
+
+
+
+
+
