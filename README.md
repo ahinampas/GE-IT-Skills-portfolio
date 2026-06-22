@@ -1,4 +1,4 @@
-# My Professional IT Skills Portfolio Hub
+# GE-IT-Skills-portfolio
 
 > **Tagline:** Driven by Financial Precision, Grounded in Integrity.
 
