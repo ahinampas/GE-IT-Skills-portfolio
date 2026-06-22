@@ -57,4 +57,30 @@ Output: Format the response in clear Markdown using bold headers for 'Day 1: Sur
 ---
 ---
 
+## 📚 AI Study Tools & Platforms Workspace
+
+### Project: Vetted Literature Matrix & Critique Log
+* **Role:** Academic Research Associate (Davao Regional Policy Tank)
+* **Target Audience:** Research Director
+
+#### Topic: Sustainable Agriculture Policy & Food Security in the Davao Region
+
+#### 1. AI-Generated Summary Audit
+I prompted an AI discovery tool to summarize recent literature on the Davao Region's agricultural sustainability indexes. Below is the verification tracking matrix checking its accuracy:
+
+| AI-Generated Statement / Citation | Source Vetted Against | Status | Human Correction / Empirical Note |
+| :--- | :--- | :--- | :--- |
+| "The Davao Region achieved total organic certification across 45% of its active smallholder cacao farms by early 2025." | Department of Agriculture (DA) XI 2025 Regional Performance Report | ❌ **Hallucination** | The actual report indicates organic certification sits below 12%. The AI completely conflated short-term expansion targets with current empirical realities. |
+| "Recurrent extreme weather disruptions like localized flooding along the Davao River basin continue to destabilize seasonal cash crop logistics." | National Economic and Development Authority (NEDA) XI Regional Development Update |  **Verified** | Confirmed. These recurring climate events directly impact the regional supply chain hubs, requiring immediate climate-resilient infrastructure. |
+
+#### 2. Critical Reflection on Tool Limitations
+"While the AI platform consolidated three dense policy documents into clear thematic summaries in seconds, its lack of contextual grounding led to a severe citation failure regarding regional organic certification stats. 
+
+Relying blindly on automated outputs without cross-referencing primary local sources like DA or NEDA documents risks publishing flawed metrics that can completely ruin a policy tank's regional credibility."
+
+---
+---
+
+
+
 
