@@ -12,6 +12,27 @@ Welcome to my portfolio! I use this space to develop my practical digital skills
 
   ___
 ### "*Driven by Financial Percision, Grounded in Integrity*"
+---
+
+
+## Professional Bio
+Welcome to my workspace portfolio! I am an aspiring professional focused on developing modern digital literacy, strategic prompt engineering, and localized data analysis frameworks to support sustainable regional growth and public communication initiatives.
+
+---
+
+## 🛠️ Project Deliverables & Portfolio Showcase
+
+### 1. Branding Kit & Visual Assets
+* **Design Reflection:** Built a cohesive visual layout utilizing clean teal and ocean color palettes to establish professional, modern branding. Focused on contrast and minimalist vector geometry to ensure mobile responsiveness and clarity.
+* **Assets:**
+  * ![Logo](./brandingkit/logo.png)
+  * ![Banner](./brandingkit/Banner.png)
+
+### 2. Infographics & Documentation
+* **Design Reflection:** Crafted informative, visually structured media content within the `/Doc` folder to simplify technical data definitions into readable, community-first infographics.
+* **Assets:**
+  * [View Infographics Report](./Doc/Infographic.png)
+
 
 
 ---
