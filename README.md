@@ -98,7 +98,7 @@ Relying blindly on automated outputs without cross-referencing primary local sou
 
 
 *(Embedded Multi-Line Chart: Provincial Revenue Cluster Comparison — Davao del Sur vs. Davao del Norte vs. Davao de Oro, 2021–2025)*
-
+  ![Provincial Revenue](./Visuals/Provincial%20Revenue%20Cluster%20Comparison.png)
 
 
 > The provincial breakdown chart reveals that the 2024 revenue contraction was not uniform — Davao de Oro showed the steepest relative decline and the slowest recovery, suggesting that smaller, less commercially dense LGUs are disproportionately affected by tax policy transitions compared to larger provincial clusters.
