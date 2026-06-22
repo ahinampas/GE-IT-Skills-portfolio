@@ -26,7 +26,7 @@ Welcome to my workspace portfolio! I am an aspiring professional focused on deve
 * **Design Reflection:** Built a cohesive visual layout utilizing clean teal and ocean color palettes to establish professional, modern branding. Focused on contrast and minimalist vector geometry to ensure mobile responsiveness and clarity.
 * **Assets:**
   * ![Logo](./brandingkit/logo.png)
-  * (.Visuals/banner.png)
+  * ![Logo](./visuals/banner.png)
 
 ### 2. Infographics & Documentation
 * **Design Reflection:** Crafted informative, visually structured media content within the `/Doc` folder to simplify technical data definitions into readable, community-first infographics.
