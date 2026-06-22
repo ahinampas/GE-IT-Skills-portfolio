@@ -27,8 +27,6 @@ Welcome to my workspace portfolio! I am Antonio Manuh Hinampas, an aspiring prof
   ![View Infographics Report](./Doc/Infographic%20.png)
 
 ---
-
-
 ---
 
 ## 🤖 Prompt Engineering Assignment Workspace
