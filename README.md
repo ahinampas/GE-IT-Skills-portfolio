@@ -53,3 +53,26 @@ Output: Format the response in clear Markdown using bold headers for 'Day 1: Sur
 #### 3. Visual Branding Asset
 * **Engine Used:** Canva Magic Media
 * **Visual Prompt:** "A flat minimalist vector logo featuring a stylized ocean wave transforming into the silhouette of a skimming pawikan turtle shell, minimalist line art, teal and ocean blue colors, clean white background, Davao Oriental tourism aesthetic."
+
+---
+---
+
+## 📊 Data Analytics & Visual Report Workspace
+
+### Dataset Focus: Davao Region Agricultural Production Index (Mock CSV Analysis)
+* **Role:** Data Analyst (Regional Development Council)
+* **Target Audience:** Regional Policymakers & LGU Department Heads
+
+#### 1. Data Cleaning Protocol Log
+* **Raw Input Problem:** The CSV file contained multiple missing row cells for the year 2023 along with mixed numerical formatting styles (e.g., metric tons vs. kilograms).
+* **AI Cleaning Instruction:** "Scan this dataset. Identify all null rows in the 'Yield' column and replace them with the median value for that specific crop tier. Convert all mass metrics to standard Metric Tons (MT). Output the first 5 rows of the cleaned table."
+* **Result:** Successfully normalized 120 row inputs across three provincial clusters.
+
+#### 2. Visualizations Generated
+*(Embedded High-Contrast Bar Chart showing Corn Production vs. Climate Outlier Years from 2020-2025)*
+
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+"The data chart clearly shows an abrupt 18% decline in smallholder corn output centered in late 2023. While the automated AI analysis summary attributed this drop purely to standard market volatility, human cross-referencing of local news archives reveals this period matched a severe regional El Niño weather event. 
+
+This drop emphasizes the urgent need for NEDA and local LGUs to invest heavily in smart solar-powered irrigation infrastructure."
+
