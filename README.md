@@ -81,6 +81,28 @@ Relying blindly on automated outputs without cross-referencing primary local sou
 ---
 ---
 
+## 📊 Data Analytics & Visual Report Workspace
+
+### Project: Automated Visual Data Report
+* **Role:** Data Analyst (Regional Development Council / Financial Monitoring)
+* **Target Audience:** Regional Policymakers & LGU Department Heads
+
+#### Topic: Davao Region Local Revenue Collection Index (Mock CSV Analysis)
+
+#### 1. Data Cleaning Protocol Log
+* **Raw Input Problem:** The source financial CSV file contained multiple unrecorded registry fields for fiscal year 2024 alongside corrupted numerical string formats (e.g., mixing local currency 'PHP' strings directly into numerical columns).
+* **AI Cleaning Instruction:** "Scan this financial dataset. Identify all null rows in the 'Tax_Revenue' column and replace them with the regional median value. Strip out all 'PHP' text formatting strings from the cells and convert the column data type to pure floating-point integers for calculation. Output the first 5 rows."
+* **Result:** Successfully normalized and formatted 150 administrative row entries across five provincial clusters.
+
+#### 2. Visualizations Generated
+*(Embedded High-Contrast Bar Chart showing Business Tax Collection Volatility from 2021-2025)*
+
+#### 3. Human Analytical Narrative (The 'Why' Factor)
+"The generated bar chart reveals a sharp 14% contraction in municipal business tax collections centered in fiscal year 2024. While the automated AI summary insight assumed this drop was caused by standard macroeconomic business closures, human cross-referencing of local policy changes reveals a different story. 
+
+This drop directly matches the grace period timeline of a newly implemented regional tax amnesty ordinance and localized business registration restructuring. This proves that LGUs need human financial analysts to properly separate structural policy transitions from actual economic downturns."
+---
+---
 
 
 
