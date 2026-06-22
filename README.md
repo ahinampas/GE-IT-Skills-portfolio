@@ -95,8 +95,8 @@ Relying blindly on automated outputs without cross-referencing primary local sou
 #### 2. Visualizations Generated
 
 *(Embedded High-Contrast Bar Chart showing Business Tax Collection Volatility from 2021–2025)*
-
-
+  ![Business Tax Collection](./Visuals/Business%20Tax%20Collection%20Volatility.png)
+  
 *(Embedded Multi-Line Chart: Provincial Revenue Cluster Comparison — Davao del Sur vs. Davao del Norte vs. Davao de Oro, 2021–2025)*
   ![Provincial Revenue](./Visuals/Provincial%20Revenue%20Cluster%20Comparison.png)
 
