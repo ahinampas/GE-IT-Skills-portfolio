@@ -24,4 +24,4 @@ Welcome to my workspace portfolio! I am Antonio Manuh Hinampas, an aspiring prof
 ### 3. Infographics & Academic Documentation
 * **Design Reflection:** I structured this section to demonstrate how complex concepts can be broken down into scannable visual tools. By using a strict top-down visual hierarchy, the layout guides the reader smoothly from the core message directly to the final analytical takeaways.
 * **Assets:**
-  * [View Infographics Report](https://github.com/ahinampas/GE-IT-Skills-portfolio/blob/main/Doc/Infographic%20.png)
+  * ![View Infographics Report](/Doc/Infographic%20.png)
