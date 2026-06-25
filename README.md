@@ -14,7 +14,7 @@ Welcome to my workspace portfolio! I am Antonio Manuh Hinampas, an aspiring prof
 * **Assets:**
    ![Logo](./brandingkit/logo.png)
     ![Header](./brandingkit/header.png)
-     ![Banner](./brandingkit/Color%20palette.pdf)
+     
 
 ### 2. Visuals
 * **Design Reflection:** For these assets, I focused on standard grid alignment and high contrast to create high-impact promotional graphics. The layout balances structural information with clean space to avoid visual clutter while keeping the audience's focus on key delivery headers.
