@@ -3,7 +3,7 @@
 > **Tagline:** Driven by Financial Precision, Grounded in Integrity.
 
 ## Professional Bio
-Welcome to my workspace portfolio! I am Antonio Manuh Hinampas, an aspiring professional specializing in financial reporting and modern digital skills. This hub bridges data precision with structured digital solutions, showcasing my work in branding, visual layout, and administrative documentation.
+Welcome to my workspace portfolio! I am Antonio Manuh Hinampas, an aspiring professional specializing in financial reporting and modern digital skills. This hub bridges data precision with structured digital solutions, showcasing my work in branding, visual layout, and documentation.
 
 ---
 
