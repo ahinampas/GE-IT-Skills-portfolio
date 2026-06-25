@@ -53,6 +53,7 @@ Output: Format the response in clear Markdown using bold headers for 'Day 1: Sur
 | V3 | Added strict environmental constraints (protecting pawikan nesting grounds) and specific Markdown output headers. | Target hit. Balanced local economic support for surf instructors with strict environmental awareness, formatted perfectly. |
 
 #### 3. Visual Branding Asset
+   ![Square Promotional](./Visuals/ai%20image.png)
 * **Engine Used:** Canva Magic Media
 * **Visual Prompt:** "A flat minimalist vector logo featuring a stylized ocean wave transforming into the silhouette of a skimming pawikan turtle shell, minimalist line art, teal and ocean blue colors, clean white background, Davao Oriental tourism aesthetic."
 
