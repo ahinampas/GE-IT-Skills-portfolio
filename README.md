@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fbd4a57-cc51-475b-95d8-b55d9228b7cb" /><img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/646370dc-af42-4960-99ae-480363b5d98f" /># GE-IT-Skills-portfolio
+# GE-IT-Skills-portfolio
 
 > **Tagline:** Driven by Financial Precision, Grounded in Integrity.
 
