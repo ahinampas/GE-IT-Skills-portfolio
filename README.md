@@ -1,4 +1,4 @@
-# GE-IT-Skills-portfolio
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3fbd4a57-cc51-475b-95d8-b55d9228b7cb" /><img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/646370dc-af42-4960-99ae-480363b5d98f" /># GE-IT-Skills-portfolio
 
 > **Tagline:** Driven by Financial Precision, Grounded in Integrity.
 
@@ -9,21 +9,33 @@ Welcome to my workspace portfolio! I am Antonio Manuh Hinampas, an aspiring prof
 
 ## 🛠️ Project Deliverables & Portfolio Showcase
 
-### 1. Branding Kit
-* **Design Reflection:** I chose a minimalist, earthy color palette with a classic laurel wreath logo to project stability, trustworthiness, and integrity. The clean, modern typography ensures high readability across both mobile and desktop views, which is essential for professional client communication.
+### 1. Logo
+* **Design Reflection:** I paired a classic serif typeface with a delicate, hand-drawn botanical wreath that grounds the monogram in organic elegance. The minimalist color palette—featuring deep charcoal against a warm cream background—complements this delicate linework to ensure the logo feels both premium and approachably warm.
 * **Assets:**
    ![Logo](./brandingkit/logo.png)
+  
+### 2. Header
+* **Design Reflection:** I balanced clean, structured typography with dynamic, flowing line art that subtly mirrors the complex yet organized nature of financial data. The continuous warm cream and earth-toned palette maintains strong brand cohesion with the logo while ensuring the layout remains highly sophisticated and easy to navigate..
+* **Assets:**
     ![Header](./brandingkit/header.png)
+
+### 3. Pallete
+* **Design Reflection:** I use earth-toned palette to evoke an immediate sense of grounded stability, trust, and financial reliability. While the soft cream provides an inviting and highly readable background, the deep charcoal and muted bronze deliver the structural weight and sophisticated contrast necessary for a premium brand identity..
+* **Assets:**
      ![Palette](./brandingkit/Color%20palette.png)
 
-### 2. Visuals
-* **Design Reflection:** For these assets, I focused on standard grid alignment and high contrast to create high-impact promotional graphics. The layout balances structural information with clean space to avoid visual clutter while keeping the audience's focus on key delivery headers.
+### 4. Banner
+* **Design Reflection:** For the banner, I combined bold, clean typography with a minimalist vector avatar to establish a confident and approachable professional presence. Subtle dot-grid accents introduce a modern, technical structure that frames the essential contact details and core brand statement within the warm color scheme.
 * **Assets:**
   ![Banner](./Visuals/banner.png)
+
+### 5. Promotional
+* **Design Reflection:** I utilized sharp directional elements and clean sans-serif typography to create an immediate hierarchy for the project milestones. The integration of a technical AI icon alongside the brand's signature fluid line art effortlessly balances the theme of forward-thinking automation with our established professional aesthetic.
+* **Assets:**
    ![Square Promotional](./Visuals/square%20promotional.png)
   
 
-### 3. Infographics & Documentation
+### 6. Infographics
 * **Design Reflection:** I structured this section to demonstrate how complex concepts can be broken down into scannable visual tools. By using a strict top-down visual hierarchy, the layout guides the reader smoothly from the core message directly to the final analytical takeaways.
 * **Assets:**
   ![View Infographics Report](./Doc/Infographic%20.png)
